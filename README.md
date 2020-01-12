@@ -6,7 +6,6 @@
 # clone the repo
 $ git clone https://github.com/tinnguyen18920/lol-the-opponent.git
 
-# change the working directory to sherlock
 $ cd lol-the-opponent
 
 # install python3 and python3-pip if they are not installed
