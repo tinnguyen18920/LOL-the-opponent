@@ -176,5 +176,5 @@ def main():
     intro(summoner)
     data = OPGG().extract_info(html)
     show_content(data)
-if __name__ == __name__:
+if __name__ == "__main__":
     main()
